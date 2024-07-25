@@ -1,7 +1,9 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
   "scripts": {
     "server":"nodemon server.js"
   },
